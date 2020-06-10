@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="00" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b r a k ___ o p s ___ z r i</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l ae k ___ aa p s ___ th r iy</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l ae k ___ ao p s ___ th r iy</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="02" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k k ___ O p s ___ t R AX E</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k k ___ O p s ___ t R R AX E</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="03" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ a rr e e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ a r e e</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="04" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ t R e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ t h R e</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="05" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ t r e e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l k ___ o p s ___ t r i</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="08" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k ___ o p s ___ d ri i</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="16" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k b l e k ___ o p s ___ t x r e e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l a k b l e k ___ o p s ___ t x r iy</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="18" modified="0">
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l ae k ___ ao p s ___ th r iy</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">black ops three</text>
+      <pronunciation>b l ae k ___ aa p s ___ th r iy</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

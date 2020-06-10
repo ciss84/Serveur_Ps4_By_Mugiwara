@@ -1,0 +1,264 @@
+﻿/* ===================================================================
+	SCE CONFIDENTIAL
+ ©2013 Sony Computer Entertainment Inc.
+	
+	汎用スタイル
+=================================================================== */
+@charset "utf-8";
+
+/* clerfix
+----------------------------------------------------*/
+.clearfix:after { content:""; clear:both; display:block; }
+.clear	{ clear:both; }
+
+img	{
+	vertical-align: bottom;
+}
+
+/* フォント
+----------------------------------------------------*/
+/* 重要文字 */
+.fontImportant {
+  color: #cc0000;
+}
+
+/* 注意文 */
+.fontSmall {
+  font-size: 85%;
+  line-height: 1.4em;
+}
+
+/* アンダーライン */
+.underLine {
+  text-decoration: underline;
+}
+
+/* 上付き文字（注釈番号など） */
+sup {
+  position: relative;
+  top: 0.25em;
+  height: 0;
+  margin: 0 2px;
+  line-height: 1;
+  vertical-align: super;
+  font-size: 80%;
+}
+/*上付き文字（PSNのSM用）*/
+sup.sm{
+  top: 0.1em;
+	font-size: 55%;
+	margin: 0 3px 0 0;
+}
+
+/* レイアウト
+----------------------------------------------------*/
+/* 左回り込み */
+.floatL {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+/* 右回り込み */
+.floatR {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+/* センター合わせ */
+.alignCenter {
+  text-align: center;
+}
+
+/* 右寄せ */
+.alignRight {
+  text-align: right;
+}
+
+/* 左寄せ */
+.alignLeft {
+  text-align: left;
+}
+
+h2, h3, h4, h5, p, ul, ol, dl, table {
+  margin-bottom: 1em;
+}
+
+.margin0 {
+  margin: 0;
+}
+
+.marginBottom1em {
+  margin-bottom: 1em;
+}
+
+.marginBottom10 {
+  margin-bottom: 10px;
+}
+
+.marginTop10 {
+  margin-top: 10px;
+}
+
+.paddingBottom10 {
+  padding-bottom: 10px;
+}
+
+.paddingTop10 {
+  padding-top: 10px;
+}
+
+.marginBottom20 {
+  margin-bottom: 20px;
+}
+
+.marginTop20 {
+  margin-top: 20px;
+}
+
+.paddingBottom20 {
+  padding-bottom: 20px;
+}
+
+.paddingTop20 {
+  padding-top: 20px;
+}
+
+.marginBottom30 {
+  margin-bottom: 30px;
+}
+
+.marginTop30 {
+  margin-top: 30px;
+}
+
+.paddingBottom30 {
+  padding-bottom: 30px;
+}
+
+.paddingTop30 {
+  padding-top: 30px;
+}
+
+.marginBottom40 {
+  margin-bottom: 40px;
+}
+
+.marginTop40 {
+  margin-top: 40px;
+}
+
+.paddingBottom40 {
+  padding-bottom: 40px;
+}
+
+.paddingTop40 {
+  padding-top: 40px;
+}
+
+/* リスト
+----------------------------------------------------*/
+ul.default {
+  list-style: disc outside;
+}
+ul.default li {
+  margin-left: 1.5em;
+  padding-left: 0;
+}
+ul.customList, ul.notesList {
+  list-style: none;
+}
+ul.customList li, ul.notesList li {
+  margin-left: 0;
+  padding-left: 2.5em;
+}
+ul.customList li span, ul.notesList li span {
+  float: left;
+  margin-left: -2.5em;
+  font-weight: bold;
+}
+ul.customList ul.default li, ul.notesList ul.default li {
+  margin-left: 1.5em;
+  padding-left: 0;
+}
+ul.customList ul.secondList li, ul.notesList ul.secondList li {
+  margin-left: 0;
+  padding-left: 15px;
+}
+ul.notesList {
+  font-size: 85%;
+  line-height: 1.4em;
+}
+ul.notesList li span {
+  font-weight: normal;
+}
+ul ul.secondList li {
+  margin-left: 0;
+  padding-left: 15px;
+  background: url(../images/icon_list_line.gif) no-repeat left 0.8em;
+  list-style: none;
+}
+ul ul, ul p, ul table {
+  margin-bottom: 0;
+}
+
+ol.default {
+  list-style: decimal outside;
+}
+ol.default li {
+  margin-left: 1.5em;
+}
+ol.default ul.customList li, ol.default ul.notesList li,
+ol.default ul.notesList li,
+ol.default ul.secondList li {
+  margin-left: 0;
+}
+ol ul, ol p, ol table {
+  margin-bottom: 0;
+}
+
+/* テーブル
+----------------------------------------------------*/
+table {
+  width: 100%;
+  margin: 0 auto 2em;
+}
+table.widthAuto {
+  width: auto;
+}
+table.odd tr:nth-child(odd) td {
+  background: #f5f5f5;
+}
+table th, table td {
+  padding: 5px;
+  border: 1px solid #cccccc;
+}
+table th.alignMiddle, table td.alignMiddle {
+  vertical-align: middle;
+}
+table th {
+  background: #eee;
+}
+table th.noBg {
+  background: none;
+}
+
+/* 区切り線
+----------------------------------------------------*/
+hr {
+  border-color: #cccccc;
+  margin: 20px 0;
+}
+
+/* ボックス
+----------------------------------------------------*/
+/* 重要ボックス */
+.importantBox, .warningBox {
+  padding: 20px;
+  background: #dcf1fe;
+  margin-bottom: 1em;
+}
+
+/* Warningボックス */
+.warningBox {
+  background: #fbf5b5;
+}

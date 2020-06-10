@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="00" modified="0">
+    <speechRecognitionWords>
+      <text>バイオハザード リベレーションズ つー</text>
+      <pronunciation>b a i o h a z aL d o ___ r i b e r eL sh o N z u ___ ts uL</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>リベレーションズ つー</text>
+      <pronunciation>r i b e r eL sh o N z u ___ ts uL</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>リベ つー</text>
+      <pronunciation>r i b e ___ ts uL</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations two</text>
+      <pronunciation>r eh z ax d ax n t ___ iy v ax l ___ r eh v ax l ey sh ax n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations two</text>
+      <pronunciation>r eh z ih d ax n t ___ iy v l ___ r eh v ax l ey sh n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations two</text>
+      <pronunciation>r eh v ax l ey sh ax n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations two</text>
+      <pronunciation>r eh v ax l ey sh n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>rev two</text>
+      <pronunciation>r eh v ___ t uw</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="02" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations deux</text>
+      <pronunciation>R E z i d AX n t ___ i v AX l ___ R E v AX l E j S AX n z  ___ d EU</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations deux</text>
+      <pronunciation>R E z i d aN [ t ] ___ E v i l ___ R E v E l a s j oN  ___ d EU</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations deux</text>
+      <pronunciation>R AX v AX l a t j oN ___ d EU ___ z</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations deux</text>
+      <pronunciation>R AX v AX l a t j oN ___ d EU</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="03" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations dos</text>
+      <pronunciation>r e s i d e n t ___ i B e l ___ r e B e l e j s j o n s ___ d o s</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations dos</text>
+      <pronunciation>rr e s i D e n t ___ e B i l ___ r e B e l e j s j o n s ___ d o s</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations dos</text>
+      <pronunciation>rr e B e l a t j o n s ___ d o s</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations dos</text>
+      <pronunciation>rr e B e l a t i o n s ___ d o s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="04" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations zwei</text>
+      <pronunciation>R e z i d e n t ___ i v ae l ___ R e v e l e j S o n z ___ ts v aI</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations zwei</text>
+      <pronunciation>R e z ae d ae n t ___ i v ae l ___ R e v ae l e j S ae n z ___ ts v aI</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations zwei</text>
+      <pronunciation>a f e l a t s j o n s ___ ts v aI</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations zwei</text>
+      <pronunciation>a f e l a t s j o n s ___ ts v e i</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="05" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations due</text>
+      <pronunciation>r e s i d e n t ___ e v i l ___ r e v e l e j S j o n z ___ d u e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations due</text>
+      <pronunciation>r e z i d e n t ___ i v e l ___ r e v e l e S o n z ___ d u e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations due</text>
+      <pronunciation>r e v e l a t i o n s ___ d u e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations due</text>
+      <pronunciation>r e v l a u S n s ___ d u e</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="18" modified="0">
+    <speechRecognitionWords>
+      <text>resident evil revelations two</text>
+      <pronunciation>r eh z ih d ax n t ___ iy v l ___ r eh v ax l ey sh n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>resident evil revelations two</text>
+      <pronunciation>r eh z ax d ax n t ___ iy v ax l ___ r eh v ax l ey sh ax n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations two</text>
+      <pronunciation>r eh v ax l ey sh n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text>revelations two</text>
+      <pronunciation>r eh v ax l ey sh ax n z ___ t uw</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

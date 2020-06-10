@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="00" modified="0">
+    <speechRecognitionWords>
+      <text display="0">spider man</text>
+      <pronunciation>s p a j d e r ___ m e n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">スパイダーマン</text>
+      <pronunciation>s u p a i d aL m a N</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p ay d er ___ m ax n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p ay d ax r ___ m ae n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="02" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p i d E R ___ m aN</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p i d AX R ___ m aN</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a i d E R ___ m AX n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="03" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p i D e r ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a j d e r ___ m a n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="04" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>S p i d er ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>S p i d ae R ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p aI d er ___ m ae n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="05" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p i d e r ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a j d e r ___ m a n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="08" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a j d ae r ___ m ae n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="16" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a j d e r ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p iy d e r a ___ m a n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p a j d e r ___ m ih n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p iy d e r a ___ m ih n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="18" modified="0">
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p ay d ax r ___ m ae n</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">spider man</text>
+      <pronunciation>s p ay d er ___ m ax n</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>
